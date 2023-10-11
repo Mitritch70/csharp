@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\glasses\tesk005\obj\Debug\net7.0\tesk005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\tesk005\obj\Debug\net7.0\tesk005.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\tesk005\obj\Debug\net7.0\tesk005.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\tesk005\obj\Debug\net7.0\tesk005.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\glasses\tesk005\bin\Debug\net7.0\tesk005.exe
+C:\Users\User\Desktop\glasses\tesk005\bin\Debug\net7.0\tesk005.deps.json
+C:\Users\User\Desktop\glasses\tesk005\bin\Debug\net7.0\tesk005.runtimeconfig.json
+C:\Users\User\Desktop\glasses\tesk005\bin\Debug\net7.0\tesk005.dll
+C:\Users\User\Desktop\glasses\tesk005\bin\Debug\net7.0\tesk005.pdb
+C:\Users\User\Desktop\glasses\tesk005\obj\Debug\net7.0\tesk005.dll
+C:\Users\User\Desktop\glasses\tesk005\obj\Debug\net7.0\refint\tesk005.dll
+C:\Users\User\Desktop\glasses\tesk005\obj\Debug\net7.0\tesk005.pdb
+C:\Users\User\Desktop\glasses\tesk005\obj\Debug\net7.0\tesk005.genruntimeconfig.cache
+C:\Users\User\Desktop\glasses\tesk005\obj\Debug\net7.0\ref\tesk005.dll

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\glasses\tesk006\bin\Debug\net7.0\tesk006.exe
+C:\Users\User\Desktop\glasses\tesk006\bin\Debug\net7.0\tesk006.deps.json
+C:\Users\User\Desktop\glasses\tesk006\bin\Debug\net7.0\tesk006.runtimeconfig.json
+C:\Users\User\Desktop\glasses\tesk006\bin\Debug\net7.0\tesk006.dll
+C:\Users\User\Desktop\glasses\tesk006\bin\Debug\net7.0\tesk006.pdb
+C:\Users\User\Desktop\glasses\tesk006\obj\Debug\net7.0\tesk006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\tesk006\obj\Debug\net7.0\tesk006.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\tesk006\obj\Debug\net7.0\tesk006.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\tesk006\obj\Debug\net7.0\tesk006.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\glasses\tesk006\obj\Debug\net7.0\tesk006.dll
+C:\Users\User\Desktop\glasses\tesk006\obj\Debug\net7.0\refint\tesk006.dll
+C:\Users\User\Desktop\glasses\tesk006\obj\Debug\net7.0\tesk006.pdb
+C:\Users\User\Desktop\glasses\tesk006\obj\Debug\net7.0\tesk006.genruntimeconfig.cache
+C:\Users\User\Desktop\glasses\tesk006\obj\Debug\net7.0\ref\tesk006.dll

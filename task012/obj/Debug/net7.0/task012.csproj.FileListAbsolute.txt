@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\glasses\task012\obj\Debug\net7.0\task012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\task012\obj\Debug\net7.0\task012.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\task012\obj\Debug\net7.0\task012.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\task012\obj\Debug\net7.0\task012.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\glasses\task012\bin\Debug\net7.0\task012.exe
+C:\Users\User\Desktop\glasses\task012\bin\Debug\net7.0\task012.deps.json
+C:\Users\User\Desktop\glasses\task012\bin\Debug\net7.0\task012.runtimeconfig.json
+C:\Users\User\Desktop\glasses\task012\bin\Debug\net7.0\task012.dll
+C:\Users\User\Desktop\glasses\task012\bin\Debug\net7.0\task012.pdb
+C:\Users\User\Desktop\glasses\task012\obj\Debug\net7.0\task012.dll
+C:\Users\User\Desktop\glasses\task012\obj\Debug\net7.0\refint\task012.dll
+C:\Users\User\Desktop\glasses\task012\obj\Debug\net7.0\task012.pdb
+C:\Users\User\Desktop\glasses\task012\obj\Debug\net7.0\task012.genruntimeconfig.cache
+C:\Users\User\Desktop\glasses\task012\obj\Debug\net7.0\ref\task012.dll
