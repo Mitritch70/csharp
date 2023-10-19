@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\glasses\task 013 кратность\obj\Debug\net7.0\task 013 кратность.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\task 013 кратность\obj\Debug\net7.0\task 013 кратность.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\task 013 кратность\obj\Debug\net7.0\task 013 кратность.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\task 013 кратность\obj\Debug\net7.0\task 013 кратность.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\glasses\task 013 кратность\bin\Debug\net7.0\task 013 кратность.exe
+C:\Users\User\Desktop\glasses\task 013 кратность\bin\Debug\net7.0\task 013 кратность.deps.json
+C:\Users\User\Desktop\glasses\task 013 кратность\bin\Debug\net7.0\task 013 кратность.runtimeconfig.json
+C:\Users\User\Desktop\glasses\task 013 кратность\bin\Debug\net7.0\task 013 кратность.dll
+C:\Users\User\Desktop\glasses\task 013 кратность\bin\Debug\net7.0\task 013 кратность.pdb
+C:\Users\User\Desktop\glasses\task 013 кратность\obj\Debug\net7.0\task 013 кратность.dll
+C:\Users\User\Desktop\glasses\task 013 кратность\obj\Debug\net7.0\refint\task 013 кратность.dll
+C:\Users\User\Desktop\glasses\task 013 кратность\obj\Debug\net7.0\task 013 кратность.pdb
+C:\Users\User\Desktop\glasses\task 013 кратность\obj\Debug\net7.0\task 013 кратность.genruntimeconfig.cache
+C:\Users\User\Desktop\glasses\task 013 кратность\obj\Debug\net7.0\ref\task 013 кратность.dll

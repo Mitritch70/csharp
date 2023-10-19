@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\glasses\task015квадрат\obj\Debug\net7.0\task015квадрат.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\task015квадрат\obj\Debug\net7.0\task015квадрат.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\task015квадрат\obj\Debug\net7.0\task015квадрат.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\task015квадрат\obj\Debug\net7.0\task015квадрат.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\glasses\task015квадрат\bin\Debug\net7.0\task015квадрат.exe
+C:\Users\User\Desktop\glasses\task015квадрат\bin\Debug\net7.0\task015квадрат.deps.json
+C:\Users\User\Desktop\glasses\task015квадрат\bin\Debug\net7.0\task015квадрат.runtimeconfig.json
+C:\Users\User\Desktop\glasses\task015квадрат\bin\Debug\net7.0\task015квадрат.dll
+C:\Users\User\Desktop\glasses\task015квадрат\bin\Debug\net7.0\task015квадрат.pdb
+C:\Users\User\Desktop\glasses\task015квадрат\obj\Debug\net7.0\task015квадрат.dll
+C:\Users\User\Desktop\glasses\task015квадрат\obj\Debug\net7.0\refint\task015квадрат.dll
+C:\Users\User\Desktop\glasses\task015квадрат\obj\Debug\net7.0\task015квадрат.pdb
+C:\Users\User\Desktop\glasses\task015квадрат\obj\Debug\net7.0\task015квадрат.genruntimeconfig.cache
+C:\Users\User\Desktop\glasses\task015квадрат\obj\Debug\net7.0\ref\task015квадрат.dll

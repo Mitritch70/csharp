@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\glasses\task014кратность\obj\Debug\net7.0\task014кратность.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\task014кратность\obj\Debug\net7.0\task014кратность.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\task014кратность\obj\Debug\net7.0\task014кратность.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\task014кратность\obj\Debug\net7.0\task014кратность.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\glasses\task014кратность\bin\Debug\net7.0\task014кратность.exe
+C:\Users\User\Desktop\glasses\task014кратность\bin\Debug\net7.0\task014кратность.deps.json
+C:\Users\User\Desktop\glasses\task014кратность\bin\Debug\net7.0\task014кратность.runtimeconfig.json
+C:\Users\User\Desktop\glasses\task014кратность\bin\Debug\net7.0\task014кратность.dll
+C:\Users\User\Desktop\glasses\task014кратность\bin\Debug\net7.0\task014кратность.pdb
+C:\Users\User\Desktop\glasses\task014кратность\obj\Debug\net7.0\task014кратность.dll
+C:\Users\User\Desktop\glasses\task014кратность\obj\Debug\net7.0\refint\task014кратность.dll
+C:\Users\User\Desktop\glasses\task014кратность\obj\Debug\net7.0\task014кратность.pdb
+C:\Users\User\Desktop\glasses\task014кратность\obj\Debug\net7.0\task014кратность.genruntimeconfig.cache
+C:\Users\User\Desktop\glasses\task014кратность\obj\Debug\net7.0\ref\task014кратность.dll
