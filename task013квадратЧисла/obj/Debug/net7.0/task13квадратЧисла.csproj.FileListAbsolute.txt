@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\glasses\task13квадратЧисла\bin\Debug\net7.0\task13квадратЧисла.exe
+C:\Users\User\Desktop\glasses\task13квадратЧисла\bin\Debug\net7.0\task13квадратЧисла.deps.json
+C:\Users\User\Desktop\glasses\task13квадратЧисла\bin\Debug\net7.0\task13квадратЧисла.runtimeconfig.json
+C:\Users\User\Desktop\glasses\task13квадратЧисла\bin\Debug\net7.0\task13квадратЧисла.dll
+C:\Users\User\Desktop\glasses\task13квадратЧисла\bin\Debug\net7.0\task13квадратЧисла.pdb
+C:\Users\User\Desktop\glasses\task13квадратЧисла\obj\Debug\net7.0\task13квадратЧисла.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\task13квадратЧисла\obj\Debug\net7.0\task13квадратЧисла.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\task13квадратЧисла\obj\Debug\net7.0\task13квадратЧисла.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\task13квадратЧисла\obj\Debug\net7.0\task13квадратЧисла.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\glasses\task13квадратЧисла\obj\Debug\net7.0\task13квадратЧисла.dll
+C:\Users\User\Desktop\glasses\task13квадратЧисла\obj\Debug\net7.0\refint\task13квадратЧисла.dll
+C:\Users\User\Desktop\glasses\task13квадратЧисла\obj\Debug\net7.0\task13квадратЧисла.pdb
+C:\Users\User\Desktop\glasses\task13квадратЧисла\obj\Debug\net7.0\task13квадратЧисла.genruntimeconfig.cache
+C:\Users\User\Desktop\glasses\task13квадратЧисла\obj\Debug\net7.0\ref\task13квадратЧисла.dll

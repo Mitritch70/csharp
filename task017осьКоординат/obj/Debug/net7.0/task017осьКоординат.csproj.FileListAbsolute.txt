@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\glasses\task017осьКоординат\obj\Debug\net7.0\task017осьКоординат.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\task017осьКоординат\obj\Debug\net7.0\task017осьКоординат.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\task017осьКоординат\obj\Debug\net7.0\task017осьКоординат.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\task017осьКоординат\obj\Debug\net7.0\task017осьКоординат.csproj.CoreCompileInputs.cache

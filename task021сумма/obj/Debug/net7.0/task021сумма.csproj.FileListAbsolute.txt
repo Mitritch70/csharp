@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\glasses\task021сумма\bin\Debug\net7.0\task021сумма.exe
+C:\Users\User\Desktop\glasses\task021сумма\bin\Debug\net7.0\task021сумма.deps.json
+C:\Users\User\Desktop\glasses\task021сумма\bin\Debug\net7.0\task021сумма.runtimeconfig.json
+C:\Users\User\Desktop\glasses\task021сумма\bin\Debug\net7.0\task021сумма.dll
+C:\Users\User\Desktop\glasses\task021сумма\bin\Debug\net7.0\task021сумма.pdb
+C:\Users\User\Desktop\glasses\task021сумма\obj\Debug\net7.0\task021сумма.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\task021сумма\obj\Debug\net7.0\task021сумма.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\task021сумма\obj\Debug\net7.0\task021сумма.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\task021сумма\obj\Debug\net7.0\task021сумма.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\glasses\task021сумма\obj\Debug\net7.0\task021сумма.dll
+C:\Users\User\Desktop\glasses\task021сумма\obj\Debug\net7.0\refint\task021сумма.dll
+C:\Users\User\Desktop\glasses\task021сумма\obj\Debug\net7.0\task021сумма.pdb
+C:\Users\User\Desktop\glasses\task021сумма\obj\Debug\net7.0\task021сумма.genruntimeconfig.cache
+C:\Users\User\Desktop\glasses\task021сумма\obj\Debug\net7.0\ref\task021сумма.dll

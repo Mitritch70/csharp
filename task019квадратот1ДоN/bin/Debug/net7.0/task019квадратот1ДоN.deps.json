@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "task019квадратот1ДоN/1.0.0": {
+        "runtime": {
+          "task019квадратот1ДоN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task019квадратот1ДоN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

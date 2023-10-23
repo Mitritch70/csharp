@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\glasses\task018куб\obj\Debug\net7.0\task018куб.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\task018куб\obj\Debug\net7.0\task018куб.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\task018куб\obj\Debug\net7.0\task018куб.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\task018куб\obj\Debug\net7.0\task018куб.csproj.CoreCompileInputs.cache

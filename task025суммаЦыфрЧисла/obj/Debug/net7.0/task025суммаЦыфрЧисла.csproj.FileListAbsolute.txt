@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\glasses\task025суммаЦыфрЧисла\bin\Debug\net7.0\task025суммаЦыфрЧисла.exe
+C:\Users\User\Desktop\glasses\task025суммаЦыфрЧисла\bin\Debug\net7.0\task025суммаЦыфрЧисла.deps.json
+C:\Users\User\Desktop\glasses\task025суммаЦыфрЧисла\bin\Debug\net7.0\task025суммаЦыфрЧисла.runtimeconfig.json
+C:\Users\User\Desktop\glasses\task025суммаЦыфрЧисла\bin\Debug\net7.0\task025суммаЦыфрЧисла.dll
+C:\Users\User\Desktop\glasses\task025суммаЦыфрЧисла\bin\Debug\net7.0\task025суммаЦыфрЧисла.pdb
+C:\Users\User\Desktop\glasses\task025суммаЦыфрЧисла\obj\Debug\net7.0\task025суммаЦыфрЧисла.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\task025суммаЦыфрЧисла\obj\Debug\net7.0\task025суммаЦыфрЧисла.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\task025суммаЦыфрЧисла\obj\Debug\net7.0\task025суммаЦыфрЧисла.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\task025суммаЦыфрЧисла\obj\Debug\net7.0\task025суммаЦыфрЧисла.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\glasses\task025суммаЦыфрЧисла\obj\Debug\net7.0\task025суммаЦыфрЧисла.dll
+C:\Users\User\Desktop\glasses\task025суммаЦыфрЧисла\obj\Debug\net7.0\refint\task025суммаЦыфрЧисла.dll
+C:\Users\User\Desktop\glasses\task025суммаЦыфрЧисла\obj\Debug\net7.0\task025суммаЦыфрЧисла.pdb
+C:\Users\User\Desktop\glasses\task025суммаЦыфрЧисла\obj\Debug\net7.0\task025суммаЦыфрЧисла.genruntimeconfig.cache
+C:\Users\User\Desktop\glasses\task025суммаЦыфрЧисла\obj\Debug\net7.0\ref\task025суммаЦыфрЧисла.dll

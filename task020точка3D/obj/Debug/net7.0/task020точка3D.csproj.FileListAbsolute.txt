@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\glasses\task020точка3D\obj\Debug\net7.0\task020точка3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\task020точка3D\obj\Debug\net7.0\task020точка3D.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\task020точка3D\obj\Debug\net7.0\task020точка3D.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\task020точка3D\obj\Debug\net7.0\task020точка3D.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\glasses\task020точка3D\bin\Debug\net7.0\task020точка3D.exe
+C:\Users\User\Desktop\glasses\task020точка3D\bin\Debug\net7.0\task020точка3D.deps.json
+C:\Users\User\Desktop\glasses\task020точка3D\bin\Debug\net7.0\task020точка3D.runtimeconfig.json
+C:\Users\User\Desktop\glasses\task020точка3D\bin\Debug\net7.0\task020точка3D.dll
+C:\Users\User\Desktop\glasses\task020точка3D\bin\Debug\net7.0\task020точка3D.pdb
+C:\Users\User\Desktop\glasses\task020точка3D\obj\Debug\net7.0\task020точка3D.dll
+C:\Users\User\Desktop\glasses\task020точка3D\obj\Debug\net7.0\refint\task020точка3D.dll
+C:\Users\User\Desktop\glasses\task020точка3D\obj\Debug\net7.0\task020точка3D.pdb
+C:\Users\User\Desktop\glasses\task020точка3D\obj\Debug\net7.0\task020точка3D.genruntimeconfig.cache
+C:\Users\User\Desktop\glasses\task020точка3D\obj\Debug\net7.0\ref\task020точка3D.dll

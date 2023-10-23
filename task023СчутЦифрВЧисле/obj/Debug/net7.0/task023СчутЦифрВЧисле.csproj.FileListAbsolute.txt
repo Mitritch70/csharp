@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\glasses\task023СчутЦифрВЧисле\obj\Debug\net7.0\task023СчутЦифрВЧисле.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\task023СчутЦифрВЧисле\obj\Debug\net7.0\task023СчутЦифрВЧисле.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\task023СчутЦифрВЧисле\obj\Debug\net7.0\task023СчутЦифрВЧисле.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\task023СчутЦифрВЧисле\obj\Debug\net7.0\task023СчутЦифрВЧисле.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\glasses\task023СчутЦифрВЧисле\bin\Debug\net7.0\task023СчутЦифрВЧисле.exe
+C:\Users\User\Desktop\glasses\task023СчутЦифрВЧисле\bin\Debug\net7.0\task023СчутЦифрВЧисле.deps.json
+C:\Users\User\Desktop\glasses\task023СчутЦифрВЧисле\bin\Debug\net7.0\task023СчутЦифрВЧисле.runtimeconfig.json
+C:\Users\User\Desktop\glasses\task023СчутЦифрВЧисле\bin\Debug\net7.0\task023СчутЦифрВЧисле.dll
+C:\Users\User\Desktop\glasses\task023СчутЦифрВЧисле\bin\Debug\net7.0\task023СчутЦифрВЧисле.pdb
+C:\Users\User\Desktop\glasses\task023СчутЦифрВЧисле\obj\Debug\net7.0\task023СчутЦифрВЧисле.dll
+C:\Users\User\Desktop\glasses\task023СчутЦифрВЧисле\obj\Debug\net7.0\refint\task023СчутЦифрВЧисле.dll
+C:\Users\User\Desktop\glasses\task023СчутЦифрВЧисле\obj\Debug\net7.0\task023СчутЦифрВЧисле.pdb
+C:\Users\User\Desktop\glasses\task023СчутЦифрВЧисле\obj\Debug\net7.0\task023СчутЦифрВЧисле.genruntimeconfig.cache
+C:\Users\User\Desktop\glasses\task023СчутЦифрВЧисле\obj\Debug\net7.0\ref\task023СчутЦифрВЧисле.dll

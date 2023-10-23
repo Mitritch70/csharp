@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\glasses\task022АстепеньB\bin\Debug\net7.0\task022АстепеньB.exe
+C:\Users\User\Desktop\glasses\task022АстепеньB\bin\Debug\net7.0\task022АстепеньB.deps.json
+C:\Users\User\Desktop\glasses\task022АстепеньB\bin\Debug\net7.0\task022АстепеньB.runtimeconfig.json
+C:\Users\User\Desktop\glasses\task022АстепеньB\bin\Debug\net7.0\task022АстепеньB.dll
+C:\Users\User\Desktop\glasses\task022АстепеньB\bin\Debug\net7.0\task022АстепеньB.pdb
+C:\Users\User\Desktop\glasses\task022АстепеньB\obj\Debug\net7.0\task022АстепеньB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\task022АстепеньB\obj\Debug\net7.0\task022АстепеньB.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\task022АстепеньB\obj\Debug\net7.0\task022АстепеньB.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\task022АстепеньB\obj\Debug\net7.0\task022АстепеньB.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\glasses\task022АстепеньB\obj\Debug\net7.0\task022АстепеньB.dll
+C:\Users\User\Desktop\glasses\task022АстепеньB\obj\Debug\net7.0\refint\task022АстепеньB.dll
+C:\Users\User\Desktop\glasses\task022АстепеньB\obj\Debug\net7.0\task022АстепеньB.pdb
+C:\Users\User\Desktop\glasses\task022АстепеньB\obj\Debug\net7.0\task022АстепеньB.genruntimeconfig.cache
+C:\Users\User\Desktop\glasses\task022АстепеньB\obj\Debug\net7.0\ref\task022АстепеньB.dll
