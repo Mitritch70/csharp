@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\glasses\task031четныеЧислаМассива\bin\Debug\net7.0\task031четныеЧислаМассива.exe
+C:\Users\User\Desktop\glasses\task031четныеЧислаМассива\bin\Debug\net7.0\task031четныеЧислаМассива.deps.json
+C:\Users\User\Desktop\glasses\task031четныеЧислаМассива\bin\Debug\net7.0\task031четныеЧислаМассива.runtimeconfig.json
+C:\Users\User\Desktop\glasses\task031четныеЧислаМассива\bin\Debug\net7.0\task031четныеЧислаМассива.dll
+C:\Users\User\Desktop\glasses\task031четныеЧислаМассива\bin\Debug\net7.0\task031четныеЧислаМассива.pdb
+C:\Users\User\Desktop\glasses\task031четныеЧислаМассива\obj\Debug\net7.0\task031четныеЧислаМассива.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\task031четныеЧислаМассива\obj\Debug\net7.0\task031четныеЧислаМассива.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\task031четныеЧислаМассива\obj\Debug\net7.0\task031четныеЧислаМассива.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\task031четныеЧислаМассива\obj\Debug\net7.0\task031четныеЧислаМассива.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\glasses\task031четныеЧислаМассива\obj\Debug\net7.0\task031четныеЧислаМассива.dll
+C:\Users\User\Desktop\glasses\task031четныеЧислаМассива\obj\Debug\net7.0\refint\task031четныеЧислаМассива.dll
+C:\Users\User\Desktop\glasses\task031четныеЧислаМассива\obj\Debug\net7.0\task031четныеЧислаМассива.pdb
+C:\Users\User\Desktop\glasses\task031четныеЧислаМассива\obj\Debug\net7.0\task031четныеЧислаМассива.genruntimeconfig.cache
+C:\Users\User\Desktop\glasses\task031четныеЧислаМассива\obj\Debug\net7.0\ref\task031четныеЧислаМассива.dll

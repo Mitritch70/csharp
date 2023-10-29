@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\glasses\task034произ1иПослЧисла\bin\Debug\net7.0\task034произ1иПослЧисла.exe
+C:\Users\User\Desktop\glasses\task034произ1иПослЧисла\bin\Debug\net7.0\task034произ1иПослЧисла.deps.json
+C:\Users\User\Desktop\glasses\task034произ1иПослЧисла\bin\Debug\net7.0\task034произ1иПослЧисла.runtimeconfig.json
+C:\Users\User\Desktop\glasses\task034произ1иПослЧисла\bin\Debug\net7.0\task034произ1иПослЧисла.dll
+C:\Users\User\Desktop\glasses\task034произ1иПослЧисла\bin\Debug\net7.0\task034произ1иПослЧисла.pdb
+C:\Users\User\Desktop\glasses\task034произ1иПослЧисла\obj\Debug\net7.0\task034произ1иПослЧисла.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\task034произ1иПослЧисла\obj\Debug\net7.0\task034произ1иПослЧисла.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\task034произ1иПослЧисла\obj\Debug\net7.0\task034произ1иПослЧисла.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\task034произ1иПослЧисла\obj\Debug\net7.0\task034произ1иПослЧисла.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\glasses\task034произ1иПослЧисла\obj\Debug\net7.0\task034произ1иПослЧисла.dll
+C:\Users\User\Desktop\glasses\task034произ1иПослЧисла\obj\Debug\net7.0\refint\task034произ1иПослЧисла.dll
+C:\Users\User\Desktop\glasses\task034произ1иПослЧисла\obj\Debug\net7.0\task034произ1иПослЧисла.pdb
+C:\Users\User\Desktop\glasses\task034произ1иПослЧисла\obj\Debug\net7.0\task034произ1иПослЧисла.genruntimeconfig.cache
+C:\Users\User\Desktop\glasses\task034произ1иПослЧисла\obj\Debug\net7.0\ref\task034произ1иПослЧисла.dll

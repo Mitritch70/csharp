@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\glasses\task030наличиеЧислаМоссиве\bin\Debug\net7.0\task030наличиеЧислаМоссиве.exe
+C:\Users\User\Desktop\glasses\task030наличиеЧислаМоссиве\bin\Debug\net7.0\task030наличиеЧислаМоссиве.deps.json
+C:\Users\User\Desktop\glasses\task030наличиеЧислаМоссиве\bin\Debug\net7.0\task030наличиеЧислаМоссиве.runtimeconfig.json
+C:\Users\User\Desktop\glasses\task030наличиеЧислаМоссиве\bin\Debug\net7.0\task030наличиеЧислаМоссиве.dll
+C:\Users\User\Desktop\glasses\task030наличиеЧислаМоссиве\bin\Debug\net7.0\task030наличиеЧислаМоссиве.pdb
+C:\Users\User\Desktop\glasses\task030наличиеЧислаМоссиве\obj\Debug\net7.0\task030наличиеЧислаМоссиве.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\task030наличиеЧислаМоссиве\obj\Debug\net7.0\task030наличиеЧислаМоссиве.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\task030наличиеЧислаМоссиве\obj\Debug\net7.0\task030наличиеЧислаМоссиве.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\task030наличиеЧислаМоссиве\obj\Debug\net7.0\task030наличиеЧислаМоссиве.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\glasses\task030наличиеЧислаМоссиве\obj\Debug\net7.0\task030наличиеЧислаМоссиве.dll
+C:\Users\User\Desktop\glasses\task030наличиеЧислаМоссиве\obj\Debug\net7.0\refint\task030наличиеЧислаМоссиве.dll
+C:\Users\User\Desktop\glasses\task030наличиеЧислаМоссиве\obj\Debug\net7.0\task030наличиеЧислаМоссиве.pdb
+C:\Users\User\Desktop\glasses\task030наличиеЧислаМоссиве\obj\Debug\net7.0\task030наличиеЧислаМоссиве.genruntimeconfig.cache
+C:\Users\User\Desktop\glasses\task030наличиеЧислаМоссиве\obj\Debug\net7.0\ref\task030наличиеЧислаМоссиве.dll

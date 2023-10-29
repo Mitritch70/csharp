@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\glasses\task033СуммаНечетЧисел\obj\Debug\net7.0\task033СуммаНечетЧисел.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\task033СуммаНечетЧисел\obj\Debug\net7.0\task033СуммаНечетЧисел.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\task033СуммаНечетЧисел\obj\Debug\net7.0\task033СуммаНечетЧисел.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\task033СуммаНечетЧисел\obj\Debug\net7.0\task033СуммаНечетЧисел.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\glasses\task033СуммаНечетЧисел\bin\Debug\net7.0\task033СуммаНечетЧисел.exe
+C:\Users\User\Desktop\glasses\task033СуммаНечетЧисел\bin\Debug\net7.0\task033СуммаНечетЧисел.deps.json
+C:\Users\User\Desktop\glasses\task033СуммаНечетЧисел\bin\Debug\net7.0\task033СуммаНечетЧисел.runtimeconfig.json
+C:\Users\User\Desktop\glasses\task033СуммаНечетЧисел\bin\Debug\net7.0\task033СуммаНечетЧисел.dll
+C:\Users\User\Desktop\glasses\task033СуммаНечетЧисел\bin\Debug\net7.0\task033СуммаНечетЧисел.pdb
+C:\Users\User\Desktop\glasses\task033СуммаНечетЧисел\obj\Debug\net7.0\task033СуммаНечетЧисел.dll
+C:\Users\User\Desktop\glasses\task033СуммаНечетЧисел\obj\Debug\net7.0\refint\task033СуммаНечетЧисел.dll
+C:\Users\User\Desktop\glasses\task033СуммаНечетЧисел\obj\Debug\net7.0\task033СуммаНечетЧисел.pdb
+C:\Users\User\Desktop\glasses\task033СуммаНечетЧисел\obj\Debug\net7.0\task033СуммаНечетЧисел.genruntimeconfig.cache
+C:\Users\User\Desktop\glasses\task033СуммаНечетЧисел\obj\Debug\net7.0\ref\task033СуммаНечетЧисел.dll

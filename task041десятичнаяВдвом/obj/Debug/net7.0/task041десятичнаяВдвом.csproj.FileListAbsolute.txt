@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\glasses\task041десятичнаяВдвом\bin\Debug\net7.0\task041десятичнаяВдвом.exe
+C:\Users\User\Desktop\glasses\task041десятичнаяВдвом\bin\Debug\net7.0\task041десятичнаяВдвом.deps.json
+C:\Users\User\Desktop\glasses\task041десятичнаяВдвом\bin\Debug\net7.0\task041десятичнаяВдвом.runtimeconfig.json
+C:\Users\User\Desktop\glasses\task041десятичнаяВдвом\bin\Debug\net7.0\task041десятичнаяВдвом.dll
+C:\Users\User\Desktop\glasses\task041десятичнаяВдвом\bin\Debug\net7.0\task041десятичнаяВдвом.pdb
+C:\Users\User\Desktop\glasses\task041десятичнаяВдвом\obj\Debug\net7.0\task041десятичнаяВдвом.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\task041десятичнаяВдвом\obj\Debug\net7.0\task041десятичнаяВдвом.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\task041десятичнаяВдвом\obj\Debug\net7.0\task041десятичнаяВдвом.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\task041десятичнаяВдвом\obj\Debug\net7.0\task041десятичнаяВдвом.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\glasses\task041десятичнаяВдвом\obj\Debug\net7.0\task041десятичнаяВдвом.dll
+C:\Users\User\Desktop\glasses\task041десятичнаяВдвом\obj\Debug\net7.0\refint\task041десятичнаяВдвом.dll
+C:\Users\User\Desktop\glasses\task041десятичнаяВдвом\obj\Debug\net7.0\task041десятичнаяВдвом.pdb
+C:\Users\User\Desktop\glasses\task041десятичнаяВдвом\obj\Debug\net7.0\task041десятичнаяВдвом.genruntimeconfig.cache
+C:\Users\User\Desktop\glasses\task041десятичнаяВдвом\obj\Debug\net7.0\ref\task041десятичнаяВдвом.dll

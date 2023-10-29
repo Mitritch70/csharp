@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "task027массив8из01/1.0.0": {
+        "runtime": {
+          "task027массив8из01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task027массив8из01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

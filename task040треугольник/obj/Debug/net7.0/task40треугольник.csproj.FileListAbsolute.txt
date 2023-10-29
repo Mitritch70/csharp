@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\glasses\task40треугольник\bin\Debug\net7.0\task40треугольник.exe
+C:\Users\User\Desktop\glasses\task40треугольник\bin\Debug\net7.0\task40треугольник.deps.json
+C:\Users\User\Desktop\glasses\task40треугольник\bin\Debug\net7.0\task40треугольник.runtimeconfig.json
+C:\Users\User\Desktop\glasses\task40треугольник\bin\Debug\net7.0\task40треугольник.dll
+C:\Users\User\Desktop\glasses\task40треугольник\bin\Debug\net7.0\task40треугольник.pdb
+C:\Users\User\Desktop\glasses\task40треугольник\obj\Debug\net7.0\task40треугольник.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\task40треугольник\obj\Debug\net7.0\task40треугольник.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\task40треугольник\obj\Debug\net7.0\task40треугольник.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\task40треугольник\obj\Debug\net7.0\task40треугольник.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\glasses\task40треугольник\obj\Debug\net7.0\task40треугольник.dll
+C:\Users\User\Desktop\glasses\task40треугольник\obj\Debug\net7.0\refint\task40треугольник.dll
+C:\Users\User\Desktop\glasses\task40треугольник\obj\Debug\net7.0\task40треугольник.pdb
+C:\Users\User\Desktop\glasses\task40треугольник\obj\Debug\net7.0\task40треугольник.genruntimeconfig.cache
+C:\Users\User\Desktop\glasses\task40треугольник\obj\Debug\net7.0\ref\task40треугольник.dll

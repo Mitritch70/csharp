@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\glasses\тask039\bin\Debug\net7.0\тask039.exe
+C:\Users\User\Desktop\glasses\тask039\bin\Debug\net7.0\тask039.deps.json
+C:\Users\User\Desktop\glasses\тask039\bin\Debug\net7.0\тask039.runtimeconfig.json
+C:\Users\User\Desktop\glasses\тask039\bin\Debug\net7.0\тask039.dll
+C:\Users\User\Desktop\glasses\тask039\bin\Debug\net7.0\тask039.pdb
+C:\Users\User\Desktop\glasses\тask039\obj\Debug\net7.0\тask039.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\тask039\obj\Debug\net7.0\тask039.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\тask039\obj\Debug\net7.0\тask039.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\тask039\obj\Debug\net7.0\тask039.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\glasses\тask039\obj\Debug\net7.0\тask039.dll
+C:\Users\User\Desktop\glasses\тask039\obj\Debug\net7.0\refint\тask039.dll
+C:\Users\User\Desktop\glasses\тask039\obj\Debug\net7.0\тask039.pdb
+C:\Users\User\Desktop\glasses\тask039\obj\Debug\net7.0\тask039.genruntimeconfig.cache
+C:\Users\User\Desktop\glasses\тask039\obj\Debug\net7.0\ref\тask039.dll

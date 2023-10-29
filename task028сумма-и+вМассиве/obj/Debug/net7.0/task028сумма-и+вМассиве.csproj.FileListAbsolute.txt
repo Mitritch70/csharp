@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\glasses\task028сумма-и+вМассиве\bin\Debug\net7.0\task028сумма-и+вМассиве.exe
+C:\Users\User\Desktop\glasses\task028сумма-и+вМассиве\bin\Debug\net7.0\task028сумма-и+вМассиве.deps.json
+C:\Users\User\Desktop\glasses\task028сумма-и+вМассиве\bin\Debug\net7.0\task028сумма-и+вМассиве.runtimeconfig.json
+C:\Users\User\Desktop\glasses\task028сумма-и+вМассиве\bin\Debug\net7.0\task028сумма-и+вМассиве.dll
+C:\Users\User\Desktop\glasses\task028сумма-и+вМассиве\bin\Debug\net7.0\task028сумма-и+вМассиве.pdb
+C:\Users\User\Desktop\glasses\task028сумма-и+вМассиве\obj\Debug\net7.0\task028сумма-и+вМассиве.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\task028сумма-и+вМассиве\obj\Debug\net7.0\task028сумма-и+вМассиве.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\task028сумма-и+вМассиве\obj\Debug\net7.0\task028сумма-и+вМассиве.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\task028сумма-и+вМассиве\obj\Debug\net7.0\task028сумма-и+вМассиве.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\glasses\task028сумма-и+вМассиве\obj\Debug\net7.0\task028сумма-и+вМассиве.dll
+C:\Users\User\Desktop\glasses\task028сумма-и+вМассиве\obj\Debug\net7.0\refint\task028сумма-и+вМассиве.dll
+C:\Users\User\Desktop\glasses\task028сумма-и+вМассиве\obj\Debug\net7.0\task028сумма-и+вМассиве.pdb
+C:\Users\User\Desktop\glasses\task028сумма-и+вМассиве\obj\Debug\net7.0\task028сумма-и+вМассиве.genruntimeconfig.cache
+C:\Users\User\Desktop\glasses\task028сумма-и+вМассиве\obj\Debug\net7.0\ref\task028сумма-и+вМассиве.dll

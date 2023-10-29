@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\glasses\task029замена+на-\bin\Debug\net7.0\task029замена+на-.exe
+C:\Users\User\Desktop\glasses\task029замена+на-\bin\Debug\net7.0\task029замена+на-.deps.json
+C:\Users\User\Desktop\glasses\task029замена+на-\bin\Debug\net7.0\task029замена+на-.runtimeconfig.json
+C:\Users\User\Desktop\glasses\task029замена+на-\bin\Debug\net7.0\task029замена+на-.dll
+C:\Users\User\Desktop\glasses\task029замена+на-\bin\Debug\net7.0\task029замена+на-.pdb
+C:\Users\User\Desktop\glasses\task029замена+на-\obj\Debug\net7.0\task029замена+на-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\task029замена+на-\obj\Debug\net7.0\task029замена+на-.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\task029замена+на-\obj\Debug\net7.0\task029замена+на-.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\task029замена+на-\obj\Debug\net7.0\task029замена+на-.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\glasses\task029замена+на-\obj\Debug\net7.0\task029замена+на-.dll
+C:\Users\User\Desktop\glasses\task029замена+на-\obj\Debug\net7.0\refint\task029замена+на-.dll
+C:\Users\User\Desktop\glasses\task029замена+на-\obj\Debug\net7.0\task029замена+на-.pdb
+C:\Users\User\Desktop\glasses\task029замена+на-\obj\Debug\net7.0\task029замена+на-.genruntimeconfig.cache
+C:\Users\User\Desktop\glasses\task029замена+на-\obj\Debug\net7.0\ref\task029замена+на-.dll

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\glasses\task044фобиначе\bin\Debug\net7.0\task044фобиначе.exe
+C:\Users\User\Desktop\glasses\task044фобиначе\bin\Debug\net7.0\task044фобиначе.deps.json
+C:\Users\User\Desktop\glasses\task044фобиначе\bin\Debug\net7.0\task044фобиначе.runtimeconfig.json
+C:\Users\User\Desktop\glasses\task044фобиначе\bin\Debug\net7.0\task044фобиначе.dll
+C:\Users\User\Desktop\glasses\task044фобиначе\bin\Debug\net7.0\task044фобиначе.pdb
+C:\Users\User\Desktop\glasses\task044фобиначе\obj\Debug\net7.0\task044фобиначе.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\glasses\task044фобиначе\obj\Debug\net7.0\task044фобиначе.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\glasses\task044фобиначе\obj\Debug\net7.0\task044фобиначе.AssemblyInfo.cs
+C:\Users\User\Desktop\glasses\task044фобиначе\obj\Debug\net7.0\task044фобиначе.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\glasses\task044фобиначе\obj\Debug\net7.0\task044фобиначе.dll
+C:\Users\User\Desktop\glasses\task044фобиначе\obj\Debug\net7.0\refint\task044фобиначе.dll
+C:\Users\User\Desktop\glasses\task044фобиначе\obj\Debug\net7.0\task044фобиначе.pdb
+C:\Users\User\Desktop\glasses\task044фобиначе\obj\Debug\net7.0\task044фобиначе.genruntimeconfig.cache
+C:\Users\User\Desktop\glasses\task044фобиначе\obj\Debug\net7.0\ref\task044фобиначе.dll
